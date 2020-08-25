@@ -1,8 +1,8 @@
 # Programming Exercise
 
 ## Description
-
 This is a programming exercise that simulates the movement of an object within a matrix based on a set of input commands.
+It requires python3
 
 ## Input Commands
 Start by entering 4 numbers, seperated by commas
